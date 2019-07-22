@@ -11,7 +11,7 @@
 - name: Twitter
   url: http://twitter.com/sansyokuhituji/
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Twitter"
 
 #- name: Mixcloud
 #  url: http://www.mixcloud.com/phlow/
@@ -26,7 +26,7 @@
 - name: Facebook
   url: http://www.facebook.com/sansyokuhituji/
   class: icon-facebook
-  title: ""
+  title: "Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
@@ -47,3 +47,18 @@
 #   url: https://www.xing.com/profile/
 #   class: icon-xing
 #   title: Xing Profil
+
+- name: LINE@
+  url: https://line.me/R/ti/p/%40dgp1582q
+  class: icon-browser
+  title: "LINE@ 友達追加"
+
+- name: LineStore
+  url: https://store.line.me/search/ja?q=%E4%B8%89%E8%89%B2%E3%81%B2%E3%81%A4%E3%81%98
+  class: icon-browser
+  title: "LINE STORE スタンプショップ"
+
+- name: Merucari
+  url: https://www.mercari.com/jp/u/253242707/
+  class: icon-browser
+  title: "Merucari"

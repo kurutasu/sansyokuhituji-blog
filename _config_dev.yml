@@ -5,9 +5,9 @@
 #
 # Start development with › $ jekyll serve --config _config.yml,_config_dev.yml
 
-url: 		'https://33e975fd56cf45c089ba83e310b558b6.vfs.cloud9.ap-northeast-1.amazonaws.com'
+url: 		'http://127.0.0.1:4000/'
 baseurl: 	''
-urlimg: 	'https://33e975fd56cf45c089ba83e310b558b6.vfs.cloud9.ap-northeast-1.amazonaws.com/images/'
+urlimg: 	'http://127.0.0.1:4000/images/'
 
 # See › https://github.com/jekyll/jekyll-gist#disabling-noscript-support
 gist:
