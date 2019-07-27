@@ -18,7 +18,7 @@ description: 'このサイトはイラストレーターの三色ひつじの公
 LINEスタンプ、着せ替え、待ち受け画面の配布、Androidアプリ、グッズの作成などを行っています！'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
-credits: ''
+credits: 'Copyright © 2015-2019 sansyokuhituji All Rights Reserved.'
 
 # Main author of the website
 # See > authors.yml
@@ -27,8 +27,6 @@ author: phlow
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://www.sansyokuhituji.com'
-#url: 'https://33e975fd56cf45c089ba83e310b558b6.vfs.cloud9.ap-northeast-1.amazonaws.com'
-#url: ''
 baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
@@ -42,8 +40,6 @@ improve_content: ''
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
 urlimg: 'https://www.sansyokuhituji.com/images/'
-#urlimg: 'images/'
-
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

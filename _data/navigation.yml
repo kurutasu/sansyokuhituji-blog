@@ -1,30 +1,49 @@
-- title: ホーム
+- title: home
   url: "/"
   side: left
 
-- title: Blog
+- title: blog
   url: "/blog/"
   side: left
 
-- title: 出店情報
-  url: "/store_open_info/"
+- title: event
+  url: "/blog/category/event/"
   side: left
 
-- title: キャラクター紹介
-  url: "/character_introduction/"
+- title: character
+  url: "/character/"
   side: left
   dropdown:
   - title: "コーヒーねこ"
-    url: "/character_introduction/coffeecat/"
+    url: "/character/#coffeecat"
   - title: "ちいさいねこ"
-    url: "/character_introduction/smallcat/"
+    url: "/character/#smallcat"
   - title: "ホルモンねこ"
-    url: "/character_introduction/horumoncat/"
+    url: "/character/#horumoncat"
   - title: "下仁田ねぎねこ"
-    url: "/character_introduction/simonitanegicat/"
+    url: "/character/#simonitanegicat"
   - title: "エビうさ"
-    url: "/character_introduction/ebiusa/"
+    url: "/character/#ebiusa"
 
-- title: 実績
-  url: "/performance/"
+- title: profile
+  url: "/blog/category/work/"
   side: left
+
+- title: shop
+  side: left
+  dropdown:
+  - title: "LINE store"
+    url: "https://store.line.me/search/ja?q=%E4%B8%89%E8%89%B2%E3%81%B2%E3%81%A4%E3%81%98"
+  - title: "メルカリ"
+    url: "https://www.mercari.com/jp/u/253242707/"
+  - title: "Suzuri"
+    url: "https://suzuri.jp/sansyokuhituji"
+  - title: "minne"
+    url: "https://minne.com/@sansyokuhitu"
+  - title: "Base"
+    url: "https://3syokuhituji.base.shop/"
+
+- title: Search
+  icon: magnifying-glass
+  url: /search/
+  side: right

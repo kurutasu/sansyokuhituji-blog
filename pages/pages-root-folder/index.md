@@ -5,21 +5,23 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
+
 header:
   image_fullwidth: header_unsplash_12.jpg
+  
 widget1:
   title: "Blog"
-  url: 'https://www.sansyokuhituji.com/blog/'
+  url: '/blog/'
   image: widget-blog-450x450.jpg
   text: ''
 widget2:
   title: "出店情報"
-  url: 'https://www.sansyokuhituji.com/store_open_info/'
+  url: '/blog/category/event/'
   image: widget-store_open_info-450x450.jpg
   text: ''
 widget3:
   title: "キャラクター紹介"
-  url: 'https://www.sansyokuhituji.com/character_introduction/'
+  url: '/character/'
   image: widget-character_introduction-450x450.jpg
   text: ''
 #

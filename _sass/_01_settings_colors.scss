@@ -96,16 +96,16 @@ $topbar-link-bg-hover: $ci-1;
 $topbar-link-bg-active-hover: $ci-1;
 
 
-$topbar-dropdown-bg: $ci-7; // Background Mobile Navigation
-$topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: $ci-7;
+$topbar-dropdown-bg: $topbar-bg-color; // Background Mobile Navigation
+$topbar-dropdown-link-color: $text-color;
+$topbar-dropdown-link-bg: $topbar-bg-color;
 
-$topbar-menu-link-color-toggled: $ci-7;
-$topbar-menu-icon-color-toggled: $ci-7;
-$topbar-menu-link-color: #000;
-$topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: $ci-7;
-$topbar-menu-icon-color-toggled: $ci-7;
+$topbar-menu-link-color-toggled: $topbar-bg-color;
+$topbar-menu-icon-color-toggled: $topbar-bg-color;
+$topbar-menu-link-color: $text-color;
+$topbar-menu-icon-color: $text-color;
+$topbar-menu-link-color-toggled: $topbar-bg-color;
+$topbar-menu-icon-color-toggled: $topbar-bg-color;
 
 
 

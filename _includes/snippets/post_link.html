@@ -1,0 +1,7 @@
+<a href="{{ site.baseurl }}{{ include.post.url }}" title="{{ site.data.language.read }} {{ include.post.title | strip_html | strip_newlines | escape }}">{% if include.showSub %}<strong>{% endif %}{{ include.post.title }}{% if include.showSub %}</strong>{% endif %}{% if include.showSub and post.subheadline %} &middot; {{ post.subheadline }}{% endif %}</a>
+
+<p> 
+    {{ include.post.subheadline | strip_html | strip_newlines | escape }}
+    <br>
+    {{ include.post.teaser | strip_html | strip_newlines | escape }}
+</p>
