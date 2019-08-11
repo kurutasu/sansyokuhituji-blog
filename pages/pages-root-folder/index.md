@@ -10,12 +10,12 @@ header:
   image_fullwidth: header_unsplash_12.jpg
   
 widget1:
-  title: "Blog"
-  url: '/blog/'
+  title: "Blog・イベント報告"
+  url: '/blog/category/blog/'
   image: widget-blog-450x450.jpg
   text: ''
 widget2:
-  title: "出店情報"
+  title: "出展情報"
   url: '/blog/category/event/'
   image: widget-store_open_info-450x450.jpg
   text: ''

@@ -3,7 +3,7 @@
   side: left
 
 - title: blog
-  url: "/blog/"
+  url: "/blog/category/blog/"
   side: left
 
 - title: event
