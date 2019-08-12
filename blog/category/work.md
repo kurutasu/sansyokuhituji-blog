@@ -1,9 +1,12 @@
 ---
 permalink: /blog/category/work/
 category: work
-title: "実績・プロフィール"
+title: "実績"
 teaser: ""
 layout: blog_by_category
+header:
+    title: ""
+    image_fullwidth: header-chobi.jpg
 ---
 
 <!--google calendar

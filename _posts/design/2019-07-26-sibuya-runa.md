@@ -36,4 +36,6 @@ header:
 
 ## 三色ひつじ情報
 
-・スマフォケース、マスキングテープ他、新作手描きポーチを出展させていただきます！
+* スマフォケース、マスキングテープ他、新作手描きポーチを出展させていただきます！
+
+<img src="http://amulet-blog.cocolog-nifty.com/photos/uncategorized/img_2632.jpg?size=l" style="">

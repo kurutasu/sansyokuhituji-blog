@@ -1,12 +1,11 @@
 ---
-layout: page-fullwidth
-title: ""
-subheadline: ""
-teaser: ""
 permalink: "/profile/"
-header: no
+layout: page-fullwidth
+title:  ""
+teaser: ""
 header:
-    image_fullwidth: "header_drop.jpg"
+    title: ""
+    image_fullwidth: header-chobi.jpg
 ---
 
 ## 三色ひつじとは
@@ -19,7 +18,7 @@ LINEスタンプ、着せ替え、待ち受け画面の配布、Androidアプリ
 
 twitter、facebook、instagram、メルカリ、LINE@などもやってるからぜひチェックしてみてね♪
 
-## お願い 画像の使用について
+## 【お願い】 画像の使用について
 
 * 公開しているイラストに関して、以下の注意事項をよく読んだ上での使用をお願いします。
 

@@ -7,7 +7,8 @@
 layout: frontpage
 
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  title: ""
+  image_fullwidth: header-chobi.jpg
   
 widget1:
   title: "Blog・イベント報告"
@@ -48,3 +49,8 @@ permalink: /index.html
 #
 homepage: true
 ---
+
+### Instagram Gallery
+<!-- InstaWidget -->
+<a href="https://instawidget.net/v/user/sansyokuhituji" id="link-0fa728fa86adfc5bd45363d61ace2e368fe1968564329420444b0d1811c81a97">@sansyokuhituji</a>
+<script src="https://instawidget.net/js/instawidget.js?u=0fa728fa86adfc5bd45363d61ace2e368fe1968564329420444b0d1811c81a97&width=1000px"></script>

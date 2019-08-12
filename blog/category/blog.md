@@ -4,6 +4,9 @@ category: blog
 title: "Blog・イベント報告"
 teaser: ""
 layout: blog_by_category
+header:
+    title: ""
+    image_fullwidth: header-chobi.jpg
 ---
 
 
