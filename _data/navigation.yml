@@ -16,14 +16,14 @@
   dropdown:
   - title: "コーヒーねこ"
     url: "/character/#coffeecat"
+  - title: "ミルクはむ"
+    url: "/character/#milkhamu"
   - title: "ちいさいねこ"
     url: "/character/#smallcat"
-  - title: "ホルモンねこ"
-    url: "/character/#horumoncat"
-  - title: "下仁田ねぎねこ"
-    url: "/character/#simonitanegicat"
-  - title: "エビうさ"
-    url: "/character/#ebiusa"
+  - title: "まんまるハムスター"
+    url: "/character/#manmaruhamster"
+  - title: "とぶねこ"
+    url: "/character/#tubuneko"
 
 - title: result
   url: "/blog/category/work/"

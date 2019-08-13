@@ -54,3 +54,6 @@ homepage: true
 <!-- InstaWidget -->
 <a href="https://instawidget.net/v/user/sansyokuhituji" id="link-0fa728fa86adfc5bd45363d61ace2e368fe1968564329420444b0d1811c81a97">@sansyokuhituji</a>
 <script src="https://instawidget.net/js/instawidget.js?u=0fa728fa86adfc5bd45363d61ace2e368fe1968564329420444b0d1811c81a97&width=1000px"></script>
+
+### Twitter Timeline
+<a class="twitter-timeline" data-chrome="transparent noheader nofooter  noborders noscrollbar" data-width="1000" data-height="400" href="https://twitter.com/sansyokuhituji?ref_src=twsrc%5Etfw" >Tweets by sansyokuhituji</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
