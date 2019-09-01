@@ -5,7 +5,7 @@ title: "Search"
 sitemap: false
 header:
     title: ""
-    image_fullwidth: header-chobi.jpg
+    image_fullwidth: header.jpg
 ---
 
 {% include _google_search.html %}

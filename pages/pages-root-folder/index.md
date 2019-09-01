@@ -8,7 +8,7 @@ layout: frontpage
 
 header:
   title: ""
-  image_fullwidth: header-chobi.jpg
+  image_fullwidth: header.jpg
   
 widget1:
   title: "Blog・イベント報告"

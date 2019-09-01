@@ -5,7 +5,7 @@ title:  "三色ひつじ の キャラクター"
 teaser: ""
 header:
     title: ""
-    image_fullwidth: header-chobi.jpg
+    image_fullwidth: header.jpg
 ---
 
 <h2>

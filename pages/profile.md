@@ -5,7 +5,7 @@ title:  ""
 teaser: ""
 header:
     title: ""
-    image_fullwidth: header-chobi.jpg
+    image_fullwidth: header.jpg
 ---
 
 ## 三色ひつじとは

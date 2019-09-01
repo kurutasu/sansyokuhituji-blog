@@ -6,7 +6,7 @@ teaser: ""
 layout: blog_by_category
 header:
     title: ""
-    image_fullwidth: header-chobi.jpg
+    image_fullwidth: header.jpg
 ---
 
 <!--google calendar

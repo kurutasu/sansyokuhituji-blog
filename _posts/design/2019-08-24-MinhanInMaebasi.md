@@ -4,7 +4,7 @@ title:  "【イベント】みんなのハンドメイドマルシェin前橋"
 subheadline:  "【ブース】当日決定 【日程】2019/8/24-25"
 teaser: "みんハンは、みんなのハンドメイド✨みんなで作るハンドメイドイベント✨みんなで楽しむハンドメイドイベントです✨"
 categories:
-    - event
+    - blog
 tags:
     - event
 header:
