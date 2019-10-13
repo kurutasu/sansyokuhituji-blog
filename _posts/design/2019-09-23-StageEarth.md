@@ -37,6 +37,8 @@ header:
 
 * [入場料] 無料
 
+<img src="https://www.instagram.com/p/B2jQPkeH6eO/media?size=l" style="">
+
 ## 出展報告
 
 * 初、鬼石町多目的ホールでのイベント！晴れているかと思いきや…
