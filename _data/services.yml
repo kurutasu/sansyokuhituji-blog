@@ -1,12 +1,12 @@
-- menu_name: "Services"
+- menu_name: "　"
 
-- name: "Contact"
+- name: "コンタクト"
   url: "/contact/"
-  title: "Contact"
+  title: "コンタクト"
 
-- name: "Privacy Policy"
+- name: "プライバシーポリシー"
   url: "/privacy/"
-  title: "Privacy Policy"
+  title: "プライバシーポリシー"
 
 #- name: "RSS"
 #  url: "/feed.xml"

@@ -1,16 +1,16 @@
-- title: home
+- title: ホーム
   url: "/"
   side: left
 
-- title: blog
+- title: ブログ
   url: "/blog/category/blog/"
   side: left
 
-- title: event
+- title: イベント情報
   url: "/blog/category/event/"
   side: left
 
-- title: character
+- title: キャラクター
   url: "/character/"
   side: left
   dropdown:
@@ -25,25 +25,27 @@
   - title: "とぶねこ"
     url: "/character/#tubuneko"
 
-- title: result
+- title: 実績
   url: "/blog/category/work/"
   side: left
 
-- title: shop
+- title: ショップ
   side: left
   dropdown:
-  - title: "LINE store"
+  - title: "ネットショップ（BOOTH）"
+    url: "https://sansyokuhituji.booth.pm/"
+  - title: "LINE スタンプ"
     url: "https://store.line.me/search/ja?q=%E4%B8%89%E8%89%B2%E3%81%B2%E3%81%A4%E3%81%98"
-  - title: "メルカリ"
-    url: "https://www.mercari.com/jp/u/253242707/"
-  - title: "Suzuri"
-    url: "https://suzuri.jp/sansyokuhituji"
-  - title: "minne"
-    url: "https://minne.com/@sansyokuhitu"
-  - title: "Base"
-    url: "https://3syokuhituji.base.shop/"
+#  - title: "メルカリ"
+#    url: "https://www.mercari.com/jp/u/253242707/"
+#  - title: "Suzuri"
+#    url: "https://suzuri.jp/sansyokuhituji"
+#  - title: "minne"
+#    url: "https://minne.com/@sansyokuhitu"
+#  - title: "Base"
+#    url: "https://3syokuhituji.base.shop/"
 
-- title: Search
-  icon: magnifying-glass
-  url: /search/
-  side: right
+#- title: Search
+#  icon: magnifying-glass
+#  url: /search/
+#  side: right

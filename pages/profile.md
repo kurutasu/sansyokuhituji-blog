@@ -1,8 +1,7 @@
 ---
 permalink: "/profile/"
 layout: page-fullwidth
-title:  ""
-teaser: ""
+title:  "プロフィール"
 header:
     title: ""
     image_fullwidth: header.jpg

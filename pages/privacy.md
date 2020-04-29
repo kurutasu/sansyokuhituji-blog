@@ -1,7 +1,7 @@
 ---
 permalink: "/privacy/"
 layout: page
-title: "Privacy Policy"
+title: "プライバシーポリシー"
 header:
     title: ""
     image_fullwidth: header.jpg
