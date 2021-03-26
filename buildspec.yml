@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      - export LC_ALL="en_US.utf8"
+      - bundle install
+  build:
+    commands:
+      - bundle exec jekyll build
+
+artifacts:
+  base-directory: '_site'
+  files:
+    - '**/*'
