@@ -4,7 +4,7 @@ title:  "【イベント】デザインフェスタ vol.51"
 subheadline:  "【ブース】中止となりました。 【日程】2020/04/11-12"
 teaser: "デザインフェスタは、オリジナルであれば無審査でどなたでも参加できるアートイベントです。"
 categories:
-    - event
+    - blog
 tags:
     - event
 header:
@@ -18,6 +18,7 @@ header:
     caption_url: https://designfesta.com/
 ---
 
+![](https://lh3.googleusercontent.com/mez3SVRre5ZSa9obXY4WHngLhnocE6vA6qi4wjNhS-NlFpqddsgxnTYi-T2xVrcv94wW0f0pL6Cg8G-1-vtNh46xZdQNLv_6WZpHtwmjCcTgySLbsl7umyGdN7if4nCQD-OT3xn-4c0THsryUx02fGR9DoWPVVGRg05s2vi99xCPHIjuNmfj4B9EWXam5OrKqfCFKZMEuaEI299vU00otw3d6f7trQnIsMkDA6YL8F-2fQmL-crAbd9vyZMyGA2V78n9QUfHHCWmpxIpcxbcI0JJe90KaKcxr0Z904sb9g8jDUUOI2c89eSCxBT7KqrorzNik4Sb0lB2EoN4Wa303tkL2FZTUWJZ0ug3gEXzZkA_ArWCVJNhVuSVkg9hi8zWhUhunyiJqcBHG0nTmlTXgM1M4DZMpTblopu1cnTj3zTaO5H9i_cfTmrUJNczgiUCfKfK_onKhmoMi_dGURhiifJIi8UD-lLLRJ3pLMQlZ1Lq55nVZo-ZZxyG8VVmbbQ3WbAI3tmv68Y-ZfggGGkQbTTan0pmIi2CxlyPQRIe4qRSszeixtF9geaxUn7_35KUfaJs-dKockSAZc7JLOm-a3e5q9scFBn_J8Od3IKbvz6rp0v0JO4Eh0YLj0t7uzutvLa95-0_gMzL7EStsuRCFGadUSexsnYwbKfCpFiSlhjr_HHCVgyD39Isl6cvU9YC3FmhK6S_mnbZOldwhRk4OPI=w602-h470-no?authuser=2)
 
 ## 開催情報
 
@@ -38,10 +39,10 @@ header:
 |一日券|￥800|￥1,000|
 |両日券|￥1,500|￥1,800|
 
-<a href="https://designfesta.com/about-ticket/">デザインフェスタ公式 | チケットについて</a>
+[デザインフェスタ公式 | チケットについて](https://designfesta.com/about-ticket/)
 
 ## 三色ひつじ情報
 
-* [ブース] 
+昨今の新型コロナの影響により、中止となりました。
 
-    未定
+次の機会に、よろしくお願いします！
