@@ -4,7 +4,6 @@ phases:
   pre_build:
     commands:
       - export LC_ALL="en_US.utf8"
-      - bundle update
       - bundle install
   build:
     commands:
