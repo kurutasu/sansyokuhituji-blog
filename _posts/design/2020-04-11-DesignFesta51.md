@@ -39,7 +39,7 @@ header:
 |一日券|￥800|￥1,000|
 |両日券|￥1,500|￥1,800|
 
-[デザインフェスタ公式 | チケットについて](https://designfesta.com/about-ticket/)
+[デザインフェスタ公式 チケットについて](https://designfesta.com/about-ticket/)
 
 ## 三色ひつじ情報
 
