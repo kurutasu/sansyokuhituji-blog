@@ -51,14 +51,10 @@ homepage: true
 ---
 
 ### Instagram ギャラリー
-<!-- InstaWidget 
-<a href="https://instawidget.net/v/user/sansyokuhituji" id="link-0fa728fa86adfc5bd45363d61ace2e368fe1968564329420444b0d1811c81a97">@sansyokuhituji</a>
-<script src="https://instawidget.net/js/instawidget.js?u=0fa728fa86adfc5bd45363d61ace2e368fe1968564329420444b0d1811c81a97&width=1000px"></script>
--->
 
-<!-- SnapWidget -->
-<script src="https://snapwidget.com/js/snapwidget.js"></script>
-<iframe src="https://snapwidget.com/embed/743831" class="snapwidget-widget" allowtransparency="true" frameborder="0" scrolling="no" style="border:none; overflow:hidden;  width:100%; "></iframe>
+<!-- insta-window -->
+<div id="insta-window" class="iswd-base" data-iswd='{"username":"sansyokuhituji","wrapperWidth":"","showIcon":false,"showBiography":false,"showFollowBtn":false,"showUsername":false}'></div>
+<script src="https://insta-window-tool.web.app/v3/insta-window.js"></script>
 
 ### Twitter タイムライン
 <a class="twitter-timeline" data-chrome="transparent noheader nofooter  noborders noscrollbar" data-width="1000" data-height="400" href="https://twitter.com/sansyokuhituji?ref_src=twsrc%5Etfw" >Tweets by sansyokuhituji</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
