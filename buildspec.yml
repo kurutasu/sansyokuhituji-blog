@@ -4,7 +4,7 @@ phases:
   pre_build:
     commands:
       - export LC_ALL="en_US.utf8"
-      - bundle update--bundler
+      - bundle install
   build:
     commands:
       - bundle exec jekyll build
