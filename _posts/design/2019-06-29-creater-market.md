@@ -18,8 +18,4 @@ header:
     caption_url: https://creatorsmarket2event.wixsite.com/gacha
 ---
 
-<img src="https://www.instagram.com/p/BzNOwDmHVn2/media?size=l" style="">
-
-<!-- InstaWidget -->
-<a href="https://instawidget.net/v/user/creatorsmarket_canbadge" id="link-2b3b91722b55f24290bbee6395deaeb893d9dfd494a7fee55f0ee098238ebf9e">@creatorsmarket_canbadge</a>
-<script src="https://instawidget.net/js/instawidget.js?u=2b3b91722b55f24290bbee6395deaeb893d9dfd494a7fee55f0ee098238ebf9e&width=900px"></script>
+[![](https://lh3.googleusercontent.com/pw/ACtC-3dg8ZdJC52rrx1DH09Rtxv9lP9jviqWfdGse_UTGgqgG1ycGkocHzcPSbb58_zcAeGnGcxBlReJE1YcpY0yuHN195RshJhdMqT7pU8L4-IrCypmR48jnJqHgnij7atB6QGZ3QpNjDHfdW4Ew2SWDBBR=w922-h589-no?authuser=2)](https://www.instagram.com/p/Byg4RiZnSaq/)

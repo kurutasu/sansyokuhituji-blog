@@ -39,19 +39,17 @@ header:
 |一日券|￥800|￥1,000|
 |両日券|￥1,500|￥1,800|
 
-<a href="https://designfesta.com/about-ticket/">デザインフェスタ公式 | チケットについて</a>
+[デザインフェスタ公式 チケットについて](https://designfesta.com/about-ticket/)
 
 ## 三色ひつじ情報
 
-<a href="https://designfesta.com/about-artist-detail2/?md=detail&id=oT1Ka7GG8l3Hzsiweq9sqw%3D%3D">真夏のデザインフェスタ2019 出展者紹介 三色ひつじ</a>
+[真夏のデザインフェスタ2019 出展者紹介 三色ひつじ](https://designfesta.com/about-artist-detail2/?md=detail&id=oT1Ka7GG8l3Hzsiweq9sqw%3D%3D)
 
 * [ブース] A-192
 
 ---
 
 ## 出展報告
-
-
 
 ５月のvol.49に引き続き、真夏のデザインフェスタに初参加させていただきました♪
 
