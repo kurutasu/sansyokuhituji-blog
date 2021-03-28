@@ -50,7 +50,7 @@
 
 - name: LINE@
   url: https://line.me/R/ti/p/%40dgp1582q
-  class: icon-browser
+  class: icon-message
   title: "LINE@ 友達追加"
 
 # - name: googleplay
