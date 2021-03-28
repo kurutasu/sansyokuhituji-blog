@@ -37,7 +37,7 @@ header:
 
 * [入場料] 無料
 
-<img src="https://www.instagram.com/p/B2jQPkeH6eO/media?size=l" style="">
+![](https://lh3.googleusercontent.com/pw/ACtC-3fuIwWtIM0W-wDgPvkFTEb-SMjkCIkvU_VjZJAq-4BHJoTdr3_F13A7qv748dPi7ihSI5gAIMuhjUQormjtscedgcibgrnROkgpvhQP8vMHvL99bGNCYEhIcj8SzwIvooQx_hAi1np-_FZNB9fpZ_gY=w376-h475-no?authuser=2)
 
 ## 出展報告
 
