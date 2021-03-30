@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "「クリエイターズマーケット」へ行ってきました！"
+title:  "【イベント】クリエイターズマーケット"
 subheadline:  "【ブース】2号館　M-627【日程】2019/6/29-30"
 teaser: "ポートメッセなごや3,2号館で約2,000ブースが集まる"
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title:  "『ハルママルシェ』に参加させていただきました！"
-subheadline:  "日程】2019/7/21"
+title:  "【イベント】ハルママルシェ"
+subheadline:  "【日程】2019/7/21"
 teaser: "ロケーション最高のお山のマルシェです♪"
 categories:
     - blog
