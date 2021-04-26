@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "【イベント】ハルママルシェ"
+title:  "【イベント】ハルナマルシェ"
 subheadline:  "【日程】2019/7/21"
 teaser: "ロケーション最高のお山のマルシェです♪"
 categories:
