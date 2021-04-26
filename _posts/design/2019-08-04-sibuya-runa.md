@@ -48,8 +48,6 @@ header:
 
 スタッフの皆さんありがとうございました♪
 
-<img src="http://amulet-blog.cocolog-nifty.com/photos/uncategorized/img_2632.jpg?size=l" style="">
-
 イベントに来ていただいたたくさんの方々に観ていただいてとっても嬉しかったです♪
 
 今後とも、よろしくお願いいたします＼(^o^)／
