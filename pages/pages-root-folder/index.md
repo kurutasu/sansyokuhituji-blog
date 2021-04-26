@@ -50,5 +50,14 @@ permalink: /index.html
 homepage: true
 ---
 
-### Twitter タイムライン
-<a class="twitter-timeline" data-chrome="transparent noheader nofooter  noborders noscrollbar" data-width="1000" data-height="400" href="https://twitter.com/sansyokuhituji?ref_src=twsrc%5Etfw" >Tweets by sansyokuhituji</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## SNSリンク
+
+### Twitter
+
+<a class="twitter-timeline" data-chrome="transparent noheader nofooter  noborders noscrollbar" data-width="400" data-height="500" href="https://twitter.com/sansyokuhituji?ref_src=twsrc%5Etfw" >Tweets by sansyokuhituji</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### facebook
+
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/ja_JP/sdk.js#xfbml=1&version=v10.0" nonce="Ho8N2uoW"></script>
+<div class="fb-page" data-href="https://www.facebook.com/sansyokuhituji/" data-tabs="timeline" data-width="400" data-height="500" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/sansyokuhituji/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/sansyokuhituji/">三色ひつじ</a></blockquote></div>
