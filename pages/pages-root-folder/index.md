@@ -50,11 +50,5 @@ permalink: /index.html
 homepage: true
 ---
 
-### Instagram ギャラリー
-
-<!-- insta-window -->
-<div id="insta-window" class="iswd-base" data-iswd='{"username":"sansyokuhituji","wrapperWidth":"","showIcon":false,"showBiography":false,"showFollowBtn":false,"showUsername":false}'></div>
-<script src="https://insta-window-tool.web.app/v3/insta-window.js"></script>
-
 ### Twitter タイムライン
 <a class="twitter-timeline" data-chrome="transparent noheader nofooter  noborders noscrollbar" data-width="1000" data-height="400" href="https://twitter.com/sansyokuhituji?ref_src=twsrc%5Etfw" >Tweets by sansyokuhituji</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
