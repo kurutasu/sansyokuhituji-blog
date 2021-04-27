@@ -1,7 +1,7 @@
 ---
 permalink: /blog/category/event/
 category: event
-title: "出展・イベント情報"
+title: "イベント情報"
 teaser: "今後の三色ひつじの活動予定を掲載します。"
 layout: blog_by_category
 header:
