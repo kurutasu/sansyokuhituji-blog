@@ -11,12 +11,12 @@ header:
   image_fullwidth: header.jpg
   
 widget1:
-  title: "Blog・イベント報告"
+  title: "ブログ"
   url: '/blog/category/blog/'
   image: widget-blog-450x450.jpg
   text: ''
 widget2:
-  title: "出展情報"
+  title: "イベント情報"
   url: '/blog/category/event/'
   image: widget-store_open_info-450x450.jpg
   text: ''
