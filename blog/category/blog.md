@@ -2,14 +2,14 @@
 permalink: /blog/category/blog/
 category: blog
 title: "ブログ"
-teaser: ""
+teaser: "これまで参加させていただいたイベントの参加報告などをさせていただきます♪"
 layout: blog_by_category
 header:
     title: "ブログ"
     image_fullwidth: header-chobi.jpg
 ---
 
-## 2019年6月までの出展・イベント参加報告
+## 2019年6月までのイベント参加報告
 
 <a>
 <div class="iframely-embed">
@@ -19,4 +19,4 @@ header:
 </div>
 <script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>
 
-## 2019年7月からの出展・イベント参加報告
+## 2019年7月からのイベント参加報告
