@@ -1,7 +1,7 @@
 ---
 permalink: /character/
 layout: page-fullwidth
-title:  "三色ひつじ の キャラクター"
+title:  "キャラクター"
 teaser: ""
 header:
     title: ""

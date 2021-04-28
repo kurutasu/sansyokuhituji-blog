@@ -15,7 +15,7 @@ LINEスタンプ、着せ替え、待ち受け画面の配布、Androidアプリ
 
 他にも、ちいさいねこ、ホルモンねこなど様々なキャラクターがいるよ！
 
-twitter、facebook、instagram、メルカリ、LINE@などもやってるからぜひチェックしてみてね♪
+twitter、facebook、instagram、ネットショップ（BOOTH）、LINE@などもやってるから、下のリンクからチェックしてみてね♪
 
 ## 【お願い】 画像の使用について
 

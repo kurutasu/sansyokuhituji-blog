@@ -21,7 +21,7 @@ widget2:
   image: widget-store_open_info-450x450.jpg
   text: ''
 widget3:
-  title: "キャラクター紹介"
+  title: "キャラクター"
   url: '/character/'
   image: widget-character_introduction-450x450.jpg
   text: ''
@@ -37,9 +37,9 @@ widget3:
 #
 
 #callforaction:
-  url: https://sansyokuhituji.booth.pm/
-  text: オンラインンショッピングはこちら ›
-  style: success
+#  url: https://sansyokuhituji.booth.pm/
+#  text: オンラインンショッピングはこちら ›
+#  style: success
 
 permalink: /index.html
 
