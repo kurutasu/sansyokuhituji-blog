@@ -9,7 +9,7 @@ tags:
     - event
 header:
     image_fullwidth:
-    image: design_1900x500.jpg
+    image: 20190803_design_1900x500.jpg
     pattern:
     color:
     background-color: $ci-9   # You must use ""
