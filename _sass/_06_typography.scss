@@ -398,7 +398,6 @@ mark {
 .icon-feather:before,
 .icon-github:before,
 .icon-globe:before,
-.icon-googleplus:before,
 .icon-heart:before,
 .icon-heart-outlined:before,
 .icon-home:before,
@@ -428,7 +427,9 @@ mark {
 .icon-vimeo:before,
 .icon-warning:before,
 .icon-xing:before,
-.icon-youtube:before {
+.icon-youtube:before,
+.icon-line:before,
+.icon-booth:before {
   display: inline-block;
 font-family: "iconfont";
 font-style: normal;
@@ -467,7 +468,6 @@ font-smoothing: antialiased;
 .icon-feather:before { content: "\f114"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
-.icon-googleplus:before { content: "\f136"; }
 .icon-heart:before { content: "\f117"; }
 .icon-heart-outlined:before { content: "\f118"; }
 .icon-home:before { content: "\f119"; }
@@ -498,3 +498,5 @@ font-smoothing: antialiased;
 .icon-warning:before { content: "\f131"; }
 .icon-xing:before { content: "\f135"; }
 .icon-youtube:before { content: "\f132"; }
+.icon-line:before { content: "\f137"; }
+.icon-booth:before { content: "\f138"; }
