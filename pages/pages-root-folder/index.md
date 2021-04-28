@@ -37,9 +37,9 @@ widget3:
 #
 
 #callforaction:
-#  url: https://store.line.me/search/ja?q=%E4%B8%89%E8%89%B2%E3%81%B2%E3%81%A4%E3%81%98
-#  text: LINE スタンプ STORE ›
-#  style: success
+  url: https://sansyokuhituji.booth.pm/
+  text: オンラインンショッピングはこちら ›
+  style: success
 
 permalink: /index.html
 
