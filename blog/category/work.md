@@ -5,8 +5,8 @@ title: "実績"
 teaser: ""
 layout: blog_by_category
 header:
-    title: ""
-    image_fullwidth: header.jpg
+    title: "実績"
+    image_fullwidth: header-chobi.jpg
 ---
 
 <!--google calendar

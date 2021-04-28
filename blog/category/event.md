@@ -5,8 +5,8 @@ title: "イベント情報"
 teaser: "今後の三色ひつじの活動予定を掲載します。"
 layout: blog_by_category
 header:
-    title: ""
-    image_fullwidth: header.jpg
+    title: "イベント情報"
+    image_fullwidth: header-chobi.jpg
 ---
 
 <!--google calendar-->

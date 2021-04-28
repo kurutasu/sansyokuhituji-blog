@@ -5,8 +5,8 @@ title: "ブログ"
 teaser: ""
 layout: blog_by_category
 header:
-    title: ""
-    image_fullwidth: header.jpg
+    title: "ブログ"
+    image_fullwidth: header-chobi.jpg
 ---
 
 ## 2019年6月までの出展・イベント参加報告
