@@ -10,7 +10,7 @@
 /*1.イメージ画像の余白、、サイズ指定、上下中心など*/
 
 .afi-image {
-	padding: 30px 20px 0;
+	padding: 10px 10px 10px;
 	margin: auto 0;
 	max-width: 200px;
 	height: auto;
@@ -22,6 +22,11 @@
 	max-width: 200px;
 	height: auto;
 	padding-right: 20px;
+	text-decoration: none;
+}
+
+.afi-link a{
+	text-decoration: none;
 }
 
 /*右側（説明、ボタン）の余白、幅*/
