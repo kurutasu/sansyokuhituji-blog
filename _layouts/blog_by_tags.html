@@ -1,0 +1,29 @@
+---
+layout: page-fullwidth-category
+subheadline: 'Articles in Tags'
+---
+
+{{ content }}
+
+{% assign tags_posts = site.tags[page.tags] %}
+{% if tags_posts %}
+	{% for post in tags_posts %}
+		{% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
+		{% if forloop.first %}
+			<ul>
+		{% else %}
+			{% assign previous_index = forloop.index0 | minus: 1 %}
+			{% capture previous_post_year %}{{ tags_posts[previous_index].date | date: '%Y' }}{% endcapture %}
+			{% if post_year != previous_post_year %}
+				</ul><ul>
+			{% endif %}
+		{% endif %}
+		<li>{% include snippets/post_link.html post=post %}</li>
+
+		{% if forloop.last %}
+			</ul>
+		{% endif %}
+	{% endfor %}
+{% else %}
+	<p>現在、まだ記事はありません。</p>
+{% endif %}

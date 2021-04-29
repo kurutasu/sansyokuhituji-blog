@@ -5,6 +5,9 @@
 - title: ブログ
   url: "/blog/category/blog/"
   side: left
+  dropdown:
+  - title: "ホルモンねこのホルモン屋さん紹介"
+    url: "/blog/tags/horumon/"
 
 - title: イベント情報
   url: "/blog/category/event/"
@@ -30,6 +33,7 @@
   side: left
 
 - title: ショップ
+  url: "https://sansyokuhituji.booth.pm/"
   side: left
   dropdown:
   - title: "ネットショップ（BOOTH）"
@@ -40,10 +44,6 @@
 #    url: "https://www.mercari.com/jp/u/253242707/"
 #  - title: "Suzuri"
 #    url: "https://suzuri.jp/sansyokuhituji"
-#  - title: "minne"
-#    url: "https://minne.com/@sansyokuhitu"
-#  - title: "Base"
-#    url: "https://3syokuhituji.base.shop/"
 
 #- title: Search
 #  icon: magnifying-glass
