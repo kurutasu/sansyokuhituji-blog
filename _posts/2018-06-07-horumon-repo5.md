@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "【ホルモンレポ：５軒目】ホルモン将 千代田店"
-subheadline:  "群馬県前橋市千代田町４丁目２０－３"
+subheadline:  "群馬県前橋市で本場のホルモン焼に負けないDEEPなホルモン焼のお店です。"
 teaser: ""
 categories:
     - blog
@@ -29,7 +29,7 @@ header:
 <div id="affili-box">
     <div class="afi-image">
         <a href="http://horumon-masa.com/" target="_blank">
-            <img src="http://horumon-masa.com/horumasa/wp-content/uploads/2019/12/cropped-horumasalogo20191211.jpg" width="200" height="50" style="border: none;">
+            <img src="http://horumon-masa.com/masa/wp-content/uploads/2017/11/mType01Branding.jpg" width="200" height="50" style="border: none;">
         </a>
     </div>
     <div id="afi-info">

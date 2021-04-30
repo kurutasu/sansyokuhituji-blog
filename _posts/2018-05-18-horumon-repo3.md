@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 title:  "【ホルモンレポ：３軒目】炭火焼肉ホルモン　ひろちゃん"
-subheadline:  "江東区木場２－７－２２小鳥居ビル"
+subheadline:  "江東区木場のホルモン焼き屋さん！"
 teaser: ""
 categories:
     - blog
