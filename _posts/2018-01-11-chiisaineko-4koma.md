@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "お正月？"
+title:  "【ちいさいねこの４コマ】お正月？"
 subheadline:  ""
 teaser: ""
 categories:

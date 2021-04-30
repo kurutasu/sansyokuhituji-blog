@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "ひょっこり"
+title:  "【ちいさいねこの４コマ】ひょっこり"
 subheadline:  ""
 teaser: ""
 categories:

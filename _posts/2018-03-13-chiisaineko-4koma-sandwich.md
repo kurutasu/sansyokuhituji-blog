@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "サンドイッチ"
+title:  "【ちいさいねこの４コマ】サンドイッチ"
 subheadline:  ""
 teaser: ""
 categories:

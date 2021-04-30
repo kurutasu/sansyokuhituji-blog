@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title:  "リフト"
+title:  "【ちいさいねこの４コマ】リフト"
 subheadline:  ""
 teaser: ""
 categories:
