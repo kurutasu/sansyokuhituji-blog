@@ -6,6 +6,8 @@
   url: "/blog/category/blog/"
   side: left
   dropdown:
+  - title: "ちいさいねこの探検"
+    url: "/blog/tags/maebasitanken/"
   - title: "ホルモンねこのホルモン屋さん紹介"
     url: "/blog/tags/horumon/"
 
