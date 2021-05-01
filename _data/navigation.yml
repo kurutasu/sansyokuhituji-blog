@@ -8,6 +8,8 @@
   dropdown:
   - title: "ちいさいねこの探検"
     url: "/blog/tags/tanken/"
+  - title: "ちいさいねこの四コマ"
+    url: "/blog/tags/chiisaineko4koma/"
   - title: "ホルモンねこのホルモン屋さん紹介"
     url: "/blog/tags/horumon/"
 
