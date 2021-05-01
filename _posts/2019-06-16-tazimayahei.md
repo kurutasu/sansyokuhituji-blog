@@ -15,7 +15,7 @@ header:
     background-color: $ci-9   # You must use ""
     title:
     caption: 世界遺産登録５周年記念フェスタ
-    caption_url: https://www.karuizawa-lakegarden.jp/
+    caption_url: 
 ---
 
 ## 開催情報
